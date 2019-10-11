@@ -1,4 +1,9 @@
 # Colorgame
 A game that helps to brush up RGB skills.
 
-Just download these files and open 2.html
+<h2>Steps to start the game</h2>
+<ul>
+  <li> Clone this repository</li>
+  <li> Cd into the folder</li>
+  <li> Run 2.html</li>
+</ul>
